@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecQNE5icpjJ/l2mEty9lY5g9zndk4PBmQ1/FGcsCzovQs1qGBY/KypBQGRq4WzBBVjVPqoTWSMbqJoCjRIWt6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beck\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\manamod\\manamod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beck\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
